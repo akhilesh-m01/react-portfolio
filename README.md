@@ -8,14 +8,12 @@ This is a personal portfolio website built using React and Tailwind CSS. The sit
 - 💻 **Project Showcase**: Highlighting my key projects with descriptions, technologies used, and links to live demos and source code.
 - 🛠 **Skills Section**: Displaying my technical skills and proficiency levels.
 - 📜 **Experience and Education**: Detailing my work experience and educational background.
-- 📬 **Contact Form**: Enabling visitors to reach out to me directly through the website.
 
 ## 🛠 Technologies Used
 
 - ⚛️ **React**: A JavaScript library for building user interfaces.
 - 🎨 **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - 🔄 **React Router**: For managing navigation within the site.
-- ✉️ **EmailJS**: For handling form submissions and sending emails directly from the website.
 
 ## 🚀 Getting Started
 
